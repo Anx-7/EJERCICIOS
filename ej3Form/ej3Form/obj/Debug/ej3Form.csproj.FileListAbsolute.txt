@@ -1,0 +1,11 @@
+C:\Users\win11\source\repos\ej3Form\ej3Form\bin\Debug\ej3Form.exe.config
+C:\Users\win11\source\repos\ej3Form\ej3Form\bin\Debug\ej3Form.exe
+C:\Users\win11\source\repos\ej3Form\ej3Form\bin\Debug\ej3Form.pdb
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.csproj.AssemblyReference.cache
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.Form1.resources
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.Form2.resources
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.Properties.Resources.resources
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.csproj.GenerateResource.cache
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.exe
+C:\Users\win11\source\repos\ej3Form\ej3Form\obj\Debug\ej3Form.pdb

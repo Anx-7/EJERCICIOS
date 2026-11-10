@@ -1,0 +1,10 @@
+C:\Users\win11\source\repos\ejForm2\ejForm2\bin\Debug\ejForm2.exe.config
+C:\Users\win11\source\repos\ejForm2\ejForm2\bin\Debug\ejForm2.exe
+C:\Users\win11\source\repos\ejForm2\ejForm2\bin\Debug\ejForm2.pdb
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.csproj.AssemblyReference.cache
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.Form1.resources
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.Properties.Resources.resources
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.csproj.GenerateResource.cache
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.csproj.CoreCompileInputs.cache
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.exe
+C:\Users\win11\source\repos\ejForm2\ejForm2\obj\Debug\ejForm2.pdb
